@@ -15,7 +15,7 @@ A beautifully simple, serverless URL shortener built on **AWS Lambda**, **API Ga
 ## 🎥 Demo Video
 > **Watch how TinyLink works end-to-end**
 
-<video src="assets/demo.mp4" width="600" controls></video>
+<video src="assests/demo.mp4" width="600" controls></video>
 
 
 ---
@@ -23,15 +23,15 @@ A beautifully simple, serverless URL shortener built on **AWS Lambda**, **API Ga
 ## 🖼 Screenshots
 ### **Home Page**
 ![Homepage Screenshot](assets/homepage.png)  
-*Add screenshot at: `assets/homepage.jpg`*
+*Add screenshot at: `assests/homepage.png`*
 
 ### **Short Link Generated**
 ![Short Link Screenshot](assets/shortlink.png)  
-*Add screenshot at: `assets/shortlink.jpg`*
+*Add screenshot at: `assests/shortlink.png`*
 
 ### **Redirect Flow**
 ![Redirect Screenshot](assets/redirect.png)  
-*Add screenshot at: `assets/redirect.jpg`*
+*Add screenshot at: `assests/redirect.png`*
 
 ---
 
